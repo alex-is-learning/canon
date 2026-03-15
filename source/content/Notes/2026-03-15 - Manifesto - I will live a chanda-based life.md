@@ -3,6 +3,9 @@ date: 2026-03-15
 tags:
   - work-in-progress
 ---
+- Ok, so I realised I don't have the skill required to do this yet, but I can still use the headline ("Manifesto - I will live a chanda-based life") as a useful personal prompt, even if I haven't rigourously worked through the logic yet!!!!
+
+
 # 1. The finalised, canonical output 
 WIP
 
